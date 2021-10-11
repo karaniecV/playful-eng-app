@@ -2,4 +2,23 @@
   background-image: url(./../../assets/rory-tawn.jpeg);
   height: 100vh;
   background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  & h2 {
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-image: url(./../../assets/brit-flag.webp);
+    background-size: contain;
+    font-family: Luckiest Guy;
+    font-size: 150px;
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: black;
+    @media (max-width: 991px) {
+      font-size: 70px;
+    }
+  }
 }

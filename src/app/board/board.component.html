@@ -1,19 +1,27 @@
 <div class="board">
   <div class="container">
-    <div class="row">
-      <a class="col-4" href="">Unit 1</a>
-      <a class="col-4" href="">Unit 2</a>
-      <a class="col-4" href="">Unit 3</a>
-    </div>
-    <div class="row">
-      <a class="col-4" href="">Unit 4</a>
-      <a class="col-4" href="">Unit 5</a>
-      <a class="col-4" href="">Unit 6</a>
-    </div>
-    <div class="row">
-      <a class="col-4" href="">Unit 7</a>
-      <a class="col-4" href="">Unit 8</a>
-      <a class="col-4" href="">Unit 9</a>
+    <div class="board-wrapper">
+      <div class="board-wrapper-item" *ngFor='let unit of units; let i = index'>
+
+        <a class="col-4" (click)='onGoToUnit(unit.id)'>
+          <img src='{{unit.imgUrl}}' alt="">
+
+
+          <p>{{unit.title}}</p>
+        </a>
+        <!-- <a class="col-4" routerLink="unit2" routerLinkActive="active">Unit 2</a>
+        <a class="col-4" href="">Unit 3</a> -->
+        <!-- </div>
+      <div class="board-wrapper-item">
+        <a class="col-4" href="./../../assets/units/About me.jpg">Unit 4</a>
+        <a class="col-4" href="">Unit 5</a>
+        <a class="col-4" href="">Unit 6</a>
+      </div>
+      <div class="board-wrapper-item">
+        <a class="col-4" href="">Unit 7</a>
+        <a class="col-4" href="">Unit 8</a>
+        <a class="col-4" href="">Unit 9</a> -->
+      </div>
     </div>
   </div>
 </div>
