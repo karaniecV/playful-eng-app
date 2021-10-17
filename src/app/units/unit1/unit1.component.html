@@ -1,7 +1,12 @@
-<p>unit1 works!</p>
-<p>unit1 works!</p>
-<p>unit1 works!</p>
-<p>unit1 works!</p>
-<p>unit1 works!</p>
-<p>unit1 works!</p>
-<p>unit1 works!</p>
+<div class="unit">
+    <div class='container'>
+        <h2>About Me</h2>
+        <div class="unit-lessons">
+            <div  *ngFor='let lesson of lessons; let i = index'>
+            <a [routerLink]="['/lesson', lesson.id]">
+                <span class="badge">{{ lesson.id }}</span>{{ lesson.title }}
+            </a>
+        </div>
+        </div>
+    </div>
+</div>

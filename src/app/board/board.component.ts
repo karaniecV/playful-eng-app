@@ -10,15 +10,15 @@ export class BoardComponent implements OnInit {
 
   constructor(private router: Router) { }
   units = [
-    { id: 1, title: 'About Me', imgUrl: './../../assets/units/About me.jpg'},
-    { id: 2, title: 'My Family', imgUrl: './../../assets/units/famaly.jpg'},
-    { id: 3, title: 'People aroumd me', imgUrl: './../../assets/units/pep.jpg'},
-    { id: 4, title: 'Our Pets', imgUrl: './../../assets/units/pets.jpg'},
-    { id: 5, title: 'Food', imgUrl: './../../assets/units/food.jpg'},
+    { id: 1, title: 'About Me', imgUrl: './../../assets/units/About me.png'},
+    { id: 2, title: 'My Family', imgUrl: './../../assets/units/famaly.png'},
+    { id: 3, title: 'People aroumd me', imgUrl: './../../assets/units/pep.png'},
+    { id: 4, title: 'Our Pets', imgUrl: './../../assets/units/pets.png'},
+    { id: 5, title: 'Food', imgUrl: './../../assets/units/food.png'},
     { id: 6, title: 'My Home', imgUrl: './../../assets/units/home.png'},
-    { id: 7, title: 'In the lesson', imgUrl: './../../assets/units/les.jpg'},
+    { id: 7, title: 'In the lesson', imgUrl: './../../assets/units/les.png'},
     { id: 8, title: 'Seasons', imgUrl: './../../assets/units/Seasons.png'},
-    { id: 9, title: 'I love animals', imgUrl: './../../assets/units/zoo.jpg'},
+    { id: 9, title: 'I love animals', imgUrl: './../../assets/units/zoo.png'},
 
   ];
 
