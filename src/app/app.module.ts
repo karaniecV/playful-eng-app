@@ -14,8 +14,7 @@ import { Unit6Component } from './units/unit6/unit6.component';
 import { Unit7Component } from './units/unit7/unit7.component';
 import { Unit8Component } from './units/unit8/unit8.component';
 import { Unit9Component } from './units/unit9/unit9.component';
-import { Lesson1Component } from './units/unit1/lessons/lesson1/lesson1.component';
-import { Lesson2Component } from './units/unit1/lessons/lesson2/lesson2.component';
+import { LessonComponent } from './units/lesson/lesson.component';
 
 @NgModule({
   declarations: [
@@ -31,8 +30,7 @@ import { Lesson2Component } from './units/unit1/lessons/lesson2/lesson2.componen
     Unit7Component,
     Unit8Component,
     Unit9Component,
-    Lesson1Component,
-    Lesson2Component
+    LessonComponent,
   ],
   imports: [
     BrowserModule,
