@@ -1,0 +1,12 @@
+<div class="board">
+    <div class="container">
+      <div class="board-wrapper">
+        <div class="board-wrapper-item" *ngFor='let unit of units; let i = index'>
+          <a class="col-4" [routerLink]="['/units/', unit.id ]">
+            <img src={{unit.imgUrl}} alt="">
+            <p>{{unit.title}}</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>

@@ -8,11 +8,11 @@
   flex-direction: column;
   justify-content: center;
   & h2 {
-    background-clip: text;
-    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-image: url(./../../assets/brit-flag.webp);
     background-size: contain;
+    background-clip: text;
+    -webkit-background-clip: text;
     font-family: Luckiest Guy;
     font-size: 150px;
     -webkit-text-stroke-width: 3px;

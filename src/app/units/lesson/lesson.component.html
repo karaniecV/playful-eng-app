@@ -1,1 +1,4 @@
-<p>lesson works!</p>
+<div *ngFor="let task of tasks; let i = index">
+    <h3>{{task.title}}</h3>
+    <iframe [src]="task.src | safe" width="100%" ></iframe>
+</div>

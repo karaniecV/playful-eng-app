@@ -4,13 +4,14 @@ import { Subscription } from 'rxjs';
 import { DataService } from '../data.service';
 
 @Component({
-  selector: 'app-lesson',
-  templateUrl: './lesson.component.html',
-  styleUrls: ['./lesson.component.scss']
+  selector: 'app-unit',
+  templateUrl: './unit.component.html',
+  styleUrls: ['./unit.component.scss']
 })
-export class LessonComponent implements OnInit {
+export class UnitComponent implements OnInit {
   private unitSubscription!: Subscription;
-  tasks: any
+  unit: any;
+  unitId: any;
 
   constructor(
     private dataService: DataService,
@@ -20,11 +21,15 @@ export class LessonComponent implements OnInit {
   ngOnInit(): void {
     this.unitSubscription = this.route.paramMap
       .subscribe((paramMap: ParamMap) => {
-        const data = this.dataService.getTasksByLesson(paramMap.get('id'));
-        this.tasks = data
-        console.log(this.tasks)
+        const data = this.dataService.getLessonsByUnit(paramMap.get('id'));
+        this.unit = data[0][1]
+        this.unitId = data[0][0]
+        console.log(this.unitId)
+
       });
   }
 
-
+  onGoLesson(id:number) {
+    this.router.navigate([`/units/${this.unitId}/lesson`, id])
+  }
 }

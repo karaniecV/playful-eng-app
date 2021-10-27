@@ -47,8 +47,85 @@
         }
     ],
     "lessons": [
+
         {
-            "unit1": [
+            "1": [
+                {
+                    "lesson1": [
+                        {
+                            "id": 1,
+                            "title": "1. Listen and repeat. Послушай и повтори.",
+                            "src": "https://udoba.org/h5p/embed/14863"
+                        },
+                        {
+                            "id": 2,
+                            "title": "2. Listen and match. Послушай и сопоставь.",
+                            "src": "https://learningapps.org/watch?app=21620156"
+                        },
+                        {
+                            "id": 3,
+                            "title": "2а. Listen and match. Послушай и сопоставь.",
+                            "src": "https://learningapps.org/watch?app=21322701"
+                        },
+                        {
+                            "id": 4,
+                            "title": "3.Sing the song. Спой песенку.",
+                            "src": "https://udoba.org/h5p/embed/14864"
+                        }
+                    ]
+                },
+                {
+                    "lesson2": [
+                        {
+                            "id": 1,
+                            "title": "1. Listen and repeat. Послушай и повтори.",
+                            "src": "https://udoba.org/h5p/embed/14863"
+                        },
+                        {
+                            "id": 2,
+                            "title": "2. Listen and match. Послушай и сопоставь.",
+                            "src": "https://learningapps.org/watch?app=21620156"
+                        },
+                        {
+                            "id": 3,
+                            "title": "2а. Listen and match. Послушай и сопоставь.",
+                            "src": "https://learningapps.org/watch?app=21322701"
+                        },
+                        {
+                            "id": 4,
+                            "title": "3.Sing the song. Спой песенку.",
+                            "src": "https://udoba.org/h5p/embed/14864"
+                        }
+                    ]
+                },
+                {
+                    "lesson3": [
+                        {
+                            "id": 1,
+                            "title": "1. Listen and repeat. Послушай и повтори.",
+                            "src": "https://udoba.org/h5p/embed/14863"
+                        },
+                        {
+                            "id": 2,
+                            "title": "2. Listen and match. Послушай и сопоставь.",
+                            "src": "https://learningapps.org/watch?app=21620156"
+                        },
+                        {
+                            "id": 3,
+                            "title": "2а. Listen and match. Послушай и сопоставь.",
+                            "src": "https://learningapps.org/watch?app=21322701"
+                        },
+                        {
+                            "id": 4,
+                            "title": "3.Sing the song. Спой песенку.",
+                            "src": "https://udoba.org/h5p/embed/14864"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "2": [
                 {
                     "lesson1": [
                         {
