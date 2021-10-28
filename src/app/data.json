@@ -60,12 +60,15 @@
                         {
                             "id": 2,
                             "title": "2. Listen and match. Послушай и сопоставь.",
-                            "src": "https://learningapps.org/watch?app=21620156"
+                            "src": "https://learningapps.org/watch?app=21620156",
+                            "class": "iframeBg"
+
                         },
                         {
                             "id": 3,
                             "title": "2а. Listen and match. Послушай и сопоставь.",
-                            "src": "https://learningapps.org/watch?app=21322701"
+                            "src": "https://learningapps.org/watch?app=21322701",
+                            "class": "iframeBg"
                         },
                         {
                             "id": 4,
@@ -136,7 +139,8 @@
                         {
                             "id": 2,
                             "title": "2. Listen and match. Послушай и сопоставь.",
-                            "src": "https://learningapps.org/watch?app=21620156"
+                            "src": "https://learningapps.org/watch?app=21620156",
+                            "class": "iframeBg"
                         },
                         {
                             "id": 3,
