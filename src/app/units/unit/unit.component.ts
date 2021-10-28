@@ -24,8 +24,6 @@ export class UnitComponent implements OnInit {
         const data = this.dataService.getLessonsByUnit(paramMap.get('id'));
         this.unit = data[0][1]
         this.unitId = data[0][0]
-        console.log(this.unitId)
-
       });
   }
 

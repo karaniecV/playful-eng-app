@@ -22,7 +22,6 @@ export class LessonComponent implements OnInit {
       .subscribe((paramMap: ParamMap) => {
         const data = this.dataService.getTasksByLesson(paramMap.get('id'));
         this.tasks = data
-        console.log(this.tasks)
       });
   }
 

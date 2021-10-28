@@ -54,25 +54,25 @@
                     "lesson1": [
                         {
                             "id": 1,
-                            "title": "1. Listen and repeat. Послушай и повтори.",
+                            "title": "Listen and repeat. Послушай и повтори.",
                             "src": "https://udoba.org/h5p/embed/14863"
                         },
                         {
                             "id": 2,
-                            "title": "2. Listen and match. Послушай и сопоставь.",
+                            "title": "Listen and match. Послушай и сопоставь.",
                             "src": "https://learningapps.org/watch?app=21620156",
                             "class": "iframeBg"
 
                         },
                         {
                             "id": 3,
-                            "title": "2а. Listen and match. Послушай и сопоставь.",
+                            "title": "Listen and match. Послушай и сопоставь.",
                             "src": "https://learningapps.org/watch?app=21322701",
                             "class": "iframeBg"
                         },
                         {
                             "id": 4,
-                            "title": "3.Sing the song. Спой песенку.",
+                            "title": "Sing the song. Спой песенку.",
                             "src": "https://udoba.org/h5p/embed/14864"
                         }
                     ]
@@ -81,23 +81,23 @@
                     "lesson2": [
                         {
                             "id": 1,
-                            "title": "1. Listen and repeat. Послушай и повтори.",
-                            "src": "https://udoba.org/h5p/embed/14863"
+                            "title": "Listen and sing the song. Послушай и спой.",
+                            "src": "https://www.youtube.com/embed/FtxQE2djxnA"
                         },
                         {
                             "id": 2,
-                            "title": "2. Listen and match. Послушай и сопоставь.",
-                            "src": "https://learningapps.org/watch?app=21620156"
+                            "title": "Listen and match. Послушай и сопоставь.",
+                            "src": "https://app.wizer.me/preview/8V5Q2P"
                         },
                         {
                             "id": 3,
-                            "title": "2а. Listen and match. Послушай и сопоставь.",
-                            "src": "https://learningapps.org/watch?app=21322701"
+                            "title": "Listen and sing the song. Послушай и спой.",
+                            "src": "https://udoba.org/h5p/embed/15124"
                         },
                         {
                             "id": 4,
-                            "title": "3.Sing the song. Спой песенку.",
-                            "src": "https://udoba.org/h5p/embed/14864"
+                            "title": "",
+                            "src": "https://www.youtube.com/embed/84B1R1LsSKs"
                         }
                     ]
                 },
@@ -105,23 +105,141 @@
                     "lesson3": [
                         {
                             "id": 1,
-                            "title": "1. Listen and repeat. Послушай и повтори.",
-                            "src": "https://udoba.org/h5p/embed/14863"
+                            "title": "Listen and sing. Послушай и спой",
+                            "src": "https://www.youtube.com/embed/78JS1JFUJBg"
                         },
                         {
                             "id": 2,
-                            "title": "2. Listen and match. Послушай и сопоставь.",
-                            "src": "https://learningapps.org/watch?app=21620156"
+                            "title": "Match the numbers. Сопоставь цифры.",
+                            "src": "https://learningapps.org/watch?v=p7ox59kpa21"
                         },
                         {
                             "id": 3,
-                            "title": "2а. Listen and match. Послушай и сопоставь.",
-                            "src": "https://learningapps.org/watch?app=21322701"
+                            "title": "Sing the ABC. Спой алфавит.",
+                            "src": "https://udoba.org/h5p/embed/15124"
+                        }
+                    ]
+                },
+                {
+                    "lesson4": [
+                        {
+                            "id": 1,
+                            "title": "Learn the numbers. Выучи цифры",
+                            "src": "https://udoba.org/h5p/embed/15163"
+                        },
+                        {
+                            "id": 2,
+                            "title": "Match the Numbers.  Сопоставь цифры",
+                            "src": "https://learningapps.org/watch?v=ppjsir8i521"
+                        },
+                        {
+                            "id": 3,
+                            "title": "Answer the question. Ответь на вопрос",
+                            "src": "https://udoba.org/h5p/embed/15268"
                         },
                         {
                             "id": 4,
-                            "title": "3.Sing the song. Спой песенку.",
-                            "src": "https://udoba.org/h5p/embed/14864"
+                            "title": "Match the letters with the pictures",
+                            "src": "https://wordwall.net/embed/a682390568c04a888ea5a40e58514b20?themeId=21&templateId=3"
+                        }
+                    ]
+                },
+                {
+                    "lesson5": [
+                        {
+                            "id": 1,
+                            "title": "What’s your phone number? Answer the question. Ответь на вопрос.",
+                            "src": "https://wordwall.net/embed/1b1b26e5358c4f8197d5e308769a36dd?themeId=21&templateId=8"
+                        },
+                        {
+                            "id": 2,
+                            "title": "What’s your phone number? Match",
+                            "src": "https://www.educaplay.com/game/10587666-phone_number.html"
+                        },
+                        {
+                            "id": 3,
+                            "title": "",
+                            "src": "https://wordwall.net/embed/69bf73ccb56b4c9ca70e1c17d09f0aff?themeId=45&templateId=3"
+                        }
+                    ]
+                },
+                {
+                    "lesson6": [
+                        {
+                            "id": 1,
+                            "title": "слушай и покажи цвета",
+                            "src": "https://learningapps.org/watch?v=pnn28s0jc21"
+                        },
+                        {
+                            "id": 2,
+                            "title": "Sing the song. Спой песню",
+                            "src": "https://udoba.org/h5p/embed/15304"
+                        },
+                        {
+                            "id": 3,
+                            "title": "Match the letters with the pictures",
+                            "src": "https://wordwall.net/embed/ebc4dfcf304541bca6b50f0d7f45abed?themeId=1&templateId=2"
+                        }
+                    ]
+                },
+                {
+                    "lesson7": [
+                        {
+                            "id": 1,
+                            "title": "Listen and match the colours. Слушай и сопоставь цвета.",
+                            "src": "https://learningapps.org/watch?v=pxb7rq7z521"
+                        },
+                        {
+                            "id": 2,
+                            "title": "Make the colours.",
+                            "src": "https://learningapps.org/watch?app=21753857"
+                        },
+                        {
+                            "id": 3,
+                            "title": "Sing the song. Спой песенку",
+                            "src": "https://udoba.org/h5p/embed/15305"
+                        }
+                    ]
+                },
+                {
+                    "lesson8": [
+                        {
+                            "id": 1,
+                            "title": "Sing the song. Спой песенку",
+                            "src": "https://udoba.org/h5p/embed/15313"
+                        },
+                        {
+                            "id": 2,
+                            "title": "Listen and point.",
+                            "src": "https://www.tinytap.com/activities/g4bym/player/embed/"
+                        }
+                    ]
+                },
+                {
+                    "lesson9": [
+                        {
+                            "id": 1,
+                            "title": "Name  the letters. Назови буквы.",
+                            "src": "https://wordwall.net/embed/80d9909947d74035b4c26e9da60f3851?themeId=1&templateId=22"
+                        },
+                        {
+                            "id": 2,
+                            "title": "Name the colours. Назови цвета",
+                            "src": "https://www.tinytap.com/activities/g4byz/player/embed/"
+                        }
+                    ]
+                },
+                {
+                    "lesson10": [
+                        {
+                            "id": 1,
+                            "title": "Make a dialogue. Составь диалог.",
+                            "src": "https://www.tinytap.com/activities/g4bz9/player/embed/"
+                        },
+                        {
+                            "id": 2,
+                            "title": "Sing the ABC. Спой песенку.",
+                            "src": "https://udoba.org/h5p/embed/15124"
                         }
                     ]
                 }
@@ -133,24 +251,19 @@
                     "lesson1": [
                         {
                             "id": 1,
-                            "title": "1. Listen and repeat. Послушай и повтори.",
-                            "src": "https://udoba.org/h5p/embed/14863"
+                            "title": "Learn the words",
+                            "src": "https://www.tinytap.com/activities/g4c0u/player/embed/"
                         },
                         {
                             "id": 2,
-                            "title": "2. Listen and match. Послушай и сопоставь.",
-                            "src": "https://learningapps.org/watch?app=21620156",
+                            "title": "Sing the song",
+                            "src": "https://udoba.org/h5p/embed/15389",
                             "class": "iframeBg"
                         },
                         {
                             "id": 3,
-                            "title": "2а. Listen and match. Послушай и сопоставь.",
-                            "src": "https://learningapps.org/watch?app=21322701"
-                        },
-                        {
-                            "id": 4,
-                            "title": "3.Sing the song. Спой песенку.",
-                            "src": "https://udoba.org/h5p/embed/14864"
+                            "title": "Match the pictures  with the letters",
+                            "src": "https://wordwall.net/embed/18980fb1f4ab407c83c86109c4e4022d?themeId=2&templateId=3"
                         }
                     ]
                 },
@@ -158,23 +271,18 @@
                     "lesson2": [
                         {
                             "id": 1,
-                            "title": "1. Listen and repeat. Послушай и повтори.",
-                            "src": "https://udoba.org/h5p/embed/14863"
+                            "title": "Learn the words",
+                            "src": "https://quizlet.com/622230643/match/embed?i=3eh7eb&x=1jj1"
                         },
                         {
                             "id": 2,
-                            "title": "2. Listen and match. Послушай и сопоставь.",
-                            "src": "https://learningapps.org/watch?app=21620156"
+                            "title": "Big or little",
+                            "src": "https://learningapps.org/watch?app=21448807"
                         },
                         {
                             "id": 3,
-                            "title": "2а. Listen and match. Послушай и сопоставь.",
-                            "src": "https://learningapps.org/watch?app=21322701"
-                        },
-                        {
-                            "id": 4,
-                            "title": "3.Sing the song. Спой песенку.",
-                            "src": "https://udoba.org/h5p/embed/14864"
+                            "title": "Match the letters with the pictures",
+                            "src": "https://wordwall.net/embed/6ab4716180894747ac828d506b5fa73f?themeId=26&templateId=25"
                         }
                     ]
                 },
@@ -182,23 +290,166 @@
                     "lesson3": [
                         {
                             "id": 1,
-                            "title": "1. Listen and repeat. Послушай и повтори.",
-                            "src": "https://udoba.org/h5p/embed/14863"
+                            "title": "Learn the chant",
+                            "src": "https://udoba.org/h5p/embed/15391"
                         },
                         {
                             "id": 2,
-                            "title": "2. Listen and match. Послушай и сопоставь.",
-                            "src": "https://learningapps.org/watch?app=21620156"
+                            "title": "Listen and guess.",
+                            "src": "https://udoba.org/h5p/embed/14449"
                         },
                         {
                             "id": 3,
-                            "title": "2а. Listen and match. Послушай и сопоставь.",
-                            "src": "https://learningapps.org/watch?app=21322701"
+                            "title": "Look and say.",
+                            "src": "https://udoba.org/h5p/embed/14448"
                         },
                         {
                             "id": 4,
-                            "title": "3.Sing the song. Спой песенку.",
-                            "src": "https://udoba.org/h5p/embed/14864"
+                            "title": "Match the letters to the pictures.",
+                            "src": "https://wordwall.net/embed/bca76be287334b0f8633b3be2f98995c?themeId=1&templateId=22"
+                        }
+                    ]
+                },
+                {
+                    "lesson4": [
+                        {
+                            "id": 1,
+                            "title": "Listen and guess.",
+                            "src": "https://www.tinytap.com/activities/g4c3n/player/embed/"
+                        },
+                        {
+                            "id": 2,
+                            "title": "Speak about you.",
+                            "src": "https://udoba.org/h5p/embed/15448"
+                        },
+                        {
+                            "id": 3,
+                            "title": "Match the letters with the pictures.",
+                            "src": "https://wordwall.net/embed/743cbff5a16147bc84dc4802bba48cc4?themeId=1&templateId=3"
+                        }
+                    ]
+                },
+                {
+                    "lesson5": [
+                        {
+                            "id": 1,
+                            "title": "Listen and say the chant.",
+                            "src": "https://udoba.org/h5p/embed/15520"
+                        },
+                        {
+                            "id": 2,
+                            "title": "Do the test.",
+                            "src": "https://www.tinytap.com/activities/g4c7c/player/embed/"
+                        },
+                        {
+                            "id": 3,
+                            "title": "Match the letters with the sounds.",
+                            "src": "https://wordwall.net/embed/16a7d37f783d4ab7bd4f6211f6c485b8?themeId=1&templateId=46"
+                        },
+                        {
+                            "id": 4,
+                            "title": "Name the sounds.",
+                            "src": "https://www.tinytap.com/activities/g4c7f/player/embed/"
+                        }
+                    ]
+                },
+                {
+                    "lesson6": [
+                        {
+                            "id": 1,
+                            "title": "Listen, point, and say in English.",
+                            "src": "https://www.tinytap.com/activities/g4c9j/player/embed/"
+                        },
+                        {
+                            "id": 2,
+                            "title": "Make the story about family.",
+                            "src": "https://www.tinytap.com/activities/g4c9g/player/embed/"
+                        },
+                        {
+                            "id": 3,
+                            "title": "Fill in the letters.",
+                            "src": "https://www.tinytap.com/activities/g4cc4/player/embed/"
+                        },
+                        {
+                            "id": 4,
+                            "title": "Match the first letters.",
+                            "src": "https://wordwall.net/embed/4491576cf1f84061827a25417374fbab?themeId=1&templateId=22"
+                        }
+                    ]
+                },
+                {
+                    "lesson7": [
+                        {
+                            "id": 1,
+                            "title": "Say the chant.",
+                            "src": "https://vocaroo.com/embed/1oEi7N4lee5M?autoplay=0"
+                        },
+                        {
+                            "id": 2,
+                            "title": "Match the questions and the answers.",
+                            "src": "https://learningapps.org/watch?app=21880826"
+                        },
+                        {
+                            "id": 3,
+                            "title": "Group the words into two groups.",
+                            "src": "https://learningapps.org/watch?app=21881102"
+                        },
+                        {
+                            "id": 4,
+                            "title": "Match the letters with the sounds.",
+                            "src": "https://wordwall.net/embed/16a7d37f783d4ab7bd4f6211f6c485b8?themeId=1&templateId=46"
+                        }
+                    ]
+                },
+                {
+                    "lesson8": [
+                        {
+                            "id": 1,
+                            "title": "Sing the song. ",
+                            "src": "https://www.youtube.com/embed/FtxQE2djxnA"
+                        },
+                        {
+                            "id": 2,
+                            "title": "Match the letters with the pictures.",
+                            "src": "https://wordwall.net/embed/fe972f71a6dd44ccad3562168ccff6f7?themeId=1&templateId=46"
+                        },
+                        {
+                            "id": 3,
+                            "title": "",
+                            "src": "https://wordwall.net/embed/f493be3594494615ac36556d5ab40dee?themeId=1&templateId=46"
+                        },
+                        {
+                            "id": 4,
+                            "title": "What letters are missing?",
+                            "src": "https://wordwall.net/embed/aba00e65ec0045eda2fd5cf06a813237?themeId=46&templateId=3"
+                        }
+                    ]
+                },
+                {
+                    "lesson9": [
+                        {
+                            "id": 1,
+                            "title": "Sing the songs",
+                            "src": "https://vocaroo.com/embed/1oQ4tDkH2t1Y?autoplay=0"
+                        },
+                        {
+                            "id": 2,
+                            "title": "Let’s play",
+                            "src": "https://view.genial.ly/617ad0ad4c81c40db6c43e9a"
+                        }
+                    ]
+                },
+                {
+                    "lesson10": [
+                        {
+                            "id": 1,
+                            "title": "Listen and guess",
+                            "src": "https://www.tinytap.com/activities/g4civ/player/embed/"
+                        },
+                        {
+                            "id": 2,
+                            "title": "Do you know your family members?",
+                            "src": "https://wordwall.net/embed/5ec4852ed2b04d52aef7dbca2a892eca?themeId=4&templateId=3"
                         }
                     ]
                 }
