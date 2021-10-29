@@ -1,0 +1,6 @@
+<div class="tasks-list">
+  <div *ngFor="let task of tasks; let i = index">
+    <h3>{{task.title}}</h3>
+    <iframe [src]="task.src | safe" [class]="task.class"></iframe>
+  </div>
+</div>

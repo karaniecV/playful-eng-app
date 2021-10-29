@@ -4,11 +4,12 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { StartComponent } from './start/start.component';
-import { LessonComponent } from './units/lesson/lesson.component';
+import { LessonComponent } from './units/unit/lesson/lesson.component';
 import { UnitsComponent } from './units/units.component';
 import { UnitComponent } from './units/unit/unit.component';
 import { UnitsListComponent } from './units/units-list/units-list.component';
-import { SafePipe } from './units/lesson/safe.pipe';
+import { SafePipe } from './units/unit/lesson/safe.pipe';
+import { LessonsListComponent } from './units/unit/lessons-list/lessons-list.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { SafePipe } from './units/lesson/safe.pipe';
     UnitsComponent,
     UnitComponent,
     UnitsListComponent,
-    SafePipe
+    SafePipe,
+    LessonsListComponent
   ],
   imports: [
     BrowserModule,

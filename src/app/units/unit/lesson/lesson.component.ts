@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute, ParamMap, Router } from '@angular/router';
 import { Subscription } from 'rxjs';
-import { DataService } from '../data.service';
+import { DataService } from '../../data.service';
 
 @Component({
   selector: 'app-lesson',
