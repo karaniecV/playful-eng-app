@@ -1,40 +1,21 @@
 .lesson-list {
-  display: flex;
-  flex-wrap: wrap;
   background-image: url(./../../../../assets/unit.jpg);
   height: 100vh;
   background-repeat: no-repeat;
   background-size: cover;
-
-}
-
-button {
-  outline: none;
-  border: none;
-  background: none;
-  color: #ffffff;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  height: 55px;
-  width: 130px;
-  @media (max-width: 991px) {
-    height: 45px;
+  &-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    & > * {
+      margin: 20px 10px;
+    }
   }
-  margin: 20px;
 }
 
 button:focus {
   outline: none;
 }
-.button-arrow {
-  padding: 16px;
-  background: rgba(255, 255, 255, 0.16);
-  border-radius: 4px;
-  width: -moz-fit-content;
-  transition: 0.3s;
-  width: fit-content;
-}
+
 .button {
   &-clear {
     -webkit-backdrop-filter: blur(42px);
@@ -51,13 +32,16 @@ button:focus {
     }
   }
   &-blue {
-    background: linear-gradient(89.77deg, #006CCE 0.15%, #0084FF 106.03%);
+    background: linear-gradient(89.77deg, #006cce 0.15%, #0084ff 106.03%);
     -webkit-backdrop-filter: blur(42px);
     backdrop-filter: blur(42px);
     border-radius: 4px;
     transition: 0.3s;
-    border & img {
-      height: 2.5rem;
+    border: 1px solid #c6dee022;
+    height: 55px;
+    width: 140px;
+    @media (max-width: 991px) {
+      height: 45px;
     }
     &:hover {
       background: linear-gradient(89.77deg, #2984d8 0.15%, #2996fc 106.03%);

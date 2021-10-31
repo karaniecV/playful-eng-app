@@ -1,10 +1,12 @@
 <div class="lesson-list">
-  <a class="board-wrapper-item" *ngFor='let lesson of unit; let i = index' (click)='onGoLesson(i+1)'>
-    <button class="button-blue">
-      <span>Lesoon {{i + 1}}</span>
-      <div class="button-arrow">
-        <img src="./../../../../assets/arrow.svg" alt="" />
-      </div>
-    </button>
-  </a>
+  <div class="lesson-list-wrapper container">
+    <a class="board-wrapper-item" *ngFor='let lesson of unit; let i = index' (click)='onGoLesson(i+1)'>
+      <button class="button-blue">
+        <span>Lesoon {{i + 1}}</span>
+        <div class="button-arrow">
+          <img src="./../../../../assets/arrow.svg" alt="" />
+        </div>
+      </button>
+    </a>
+  </div>
 </div>

@@ -82,12 +82,14 @@
                         {
                             "id": 1,
                             "title": "Listen and sing the song. Послушай и спой.",
-                            "src": "https://www.youtube.com/embed/FtxQE2djxnA"
+                            "src": "https://www.youtube.com/embed/FtxQE2djxnA",
+                            "class": "iframeBg"
                         },
                         {
                             "id": 2,
                             "title": "Listen and match. Послушай и сопоставь.",
-                            "src": "https://app.wizer.me/preview/8V5Q2P"
+                            "src": "https://www.tinytap.com/activities/g4ckl/player/embed/",
+                            "class": "iframeBg"
                         },
                         {
                             "id": 3,

@@ -20,7 +20,7 @@ import { LessonsListComponent } from './units/unit/lessons-list/lessons-list.com
     UnitComponent,
     UnitsListComponent,
     SafePipe,
-    LessonsListComponent
+    LessonsListComponent,
   ],
   imports: [
     BrowserModule,

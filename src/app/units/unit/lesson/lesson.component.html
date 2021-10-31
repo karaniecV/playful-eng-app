@@ -1,6 +1,26 @@
-<div class="tasks-list">
-  <div *ngFor="let task of tasks; let i = index">
-    <h3>{{task.title}}</h3>
-    <iframe [src]="task.src | safe" [class]="task.class"></iframe>
+<div class="lesson">
+  <div class="container">
+    <div class="tasks-list">
+      <div *ngFor="let task of tasks; let i = index">
+        <h3 (click)="onOpenMadal(task)">{{task.title}}</h3>
+      </div>
+    </div>
+    <a href="javascript:history.back();">
+      <button class="button-clear">
+        <span>Назад</span>
+        <div class="button-arrow">
+          <img src="./../../../../assets/arrow.svg" alt="" />
+        </div>
+
+      </button>
+    </a>
   </div>
+</div>
+
+<div *ngIf=openMadal class="modal-custom">
+  <div class="modal-custom-header">
+    <h3 (click)="onCloseMadal()">{{madalTask.title}}</h3>
+    <button (click)="onCloseMadal()" class="button-black">X</button>
+  </div>
+  <iframe [src]="madalTask.src | safe" width="100%" height="100%" ></iframe>
 </div>
