@@ -1,67 +1,9 @@
 .iframeBg {
   height: 450px;
 }
-
-.button {
-  &-clear {
-    background: linear-gradient(89.77deg, #ce0000 0.15%, #ff0000 106.03%);
-    -webkit-backdrop-filter: blur(42px);
-    backdrop-filter: blur(42px);
-    border-radius: 4px;
-    transition: 0.3s;
-    border: 1px solid #c6dee022;
-    flex-direction: row-reverse;
-    & img {
-      transform: scale(-1);
-    }
-    &:hover {
-      transition: 0.3s;
-      background: linear-gradient(89.77deg, #f82929 0.15%, #f82929 106.03%);
-      & .button-arrow {
-        background: none;
-      }
-    }
-  }
-  &-black {
-    background: linear-gradient(89.77deg, #665050 0.15%, #ad9d9d 106.03%);
-    -webkit-backdrop-filter: blur(42px);
-    backdrop-filter: blur(42px);
-    border-radius: 4px;
-    transition: 0.3s;
-    border: 1px solid #c6dee022;
-    flex-direction: row-reverse;
-    padding: 10px 20px;
-    & img {
-      transform: scale(-1);
-    }
-    &:hover {
-      transition: 0.3s;
-      background: linear-gradient(89.77deg, #e7cfcf 0.15%, #816c6c 106.03%);
-      & .button-arrow {
-        background: none;
-      }
-    }
-  }
-  &-blue {
-    background: linear-gradient(89.77deg, #006cce 0.15%, #0084ff 106.03%);
-    -webkit-backdrop-filter: blur(42px);
-    backdrop-filter: blur(42px);
-    border-radius: 4px;
-    transition: 0.3s;
-    & img {
-      height: 2.5rem;
-    }
-    &:hover {
-      background: linear-gradient(89.77deg, #2984d8 0.15%, #2996fc 106.03%);
-      transition: 0.3s;
-      & .button-arrow {
-        background: none;
-      }
-    }
-  }
+h3 {
+  padding: 15px 0;
 }
-
-
 
 .modal-custom {
   position: fixed;
