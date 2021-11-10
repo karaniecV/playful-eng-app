@@ -244,18 +244,18 @@
           "lesson1": [
             {
               "id": 1,
-              "title": "Learn the words",
+              "title": "Learn the words.",
               "src": "https://www.tinytap.com/activities/g4c0u/player/embed/"
             },
             {
               "id": 2,
-              "title": "Sing the song",
+              "title": "Sing the song.",
               "src": "https://udoba.org/h5p/embed/15389",
               "class": "iframeBg"
             },
             {
               "id": 3,
-              "title": "Match the pictures  with the letters",
+              "title": "Match the pictures  with the letters.",
               "src": "https://wordwall.net/embed/18980fb1f4ab407c83c86109c4e4022d?themeId=2&templateId=3"
             }
           ]
@@ -264,17 +264,17 @@
           "lesson2": [
             {
               "id": 1,
-              "title": "Learn the words",
+              "title": "Learn the words.",
               "src": "https://quizlet.com/622230643/match/embed?i=3eh7eb&x=1jj1"
             },
             {
               "id": 2,
-              "title": "Big or little",
+              "title": "Big or little.",
               "src": "https://learningapps.org/watch?app=21448807"
             },
             {
               "id": 3,
-              "title": "Match the letters with the pictures",
+              "title": "Match the letters with the pictures.",
               "src": "https://wordwall.net/embed/6ab4716180894747ac828d506b5fa73f?themeId=26&templateId=25"
             }
           ]
@@ -283,7 +283,7 @@
           "lesson3": [
             {
               "id": 1,
-              "title": "Learn the chant",
+              "title": "Learn the chant.",
               "src": "https://udoba.org/h5p/embed/15391"
             },
             {
@@ -407,11 +407,6 @@
               "src": "https://wordwall.net/embed/fe972f71a6dd44ccad3562168ccff6f7?themeId=1&templateId=46"
             },
             {
-              "id": 3,
-              "title": "",
-              "src": "https://wordwall.net/embed/f493be3594494615ac36556d5ab40dee?themeId=1&templateId=46"
-            },
-            {
               "id": 4,
               "title": "What letters are missing?",
               "src": "https://wordwall.net/embed/aba00e65ec0045eda2fd5cf06a813237?themeId=46&templateId=3"
@@ -422,12 +417,12 @@
           "lesson9": [
             {
               "id": 1,
-              "title": "Sing the songs",
+              "title": "Sing the songs.",
               "src": "https://vocaroo.com/embed/1oQ4tDkH2t1Y?autoplay=0"
             },
             {
               "id": 2,
-              "title": "Let’s play",
+              "title": "Let’s play.",
               "src": "https://view.genial.ly/617ad0ad4c81c40db6c43e9a"
             }
           ]
@@ -436,7 +431,7 @@
           "lesson10": [
             {
               "id": 1,
-              "title": "Listen and guess",
+              "title": "Listen and guess.",
               "src": "https://www.tinytap.com/activities/g4civ/player/embed/"
             },
             {
