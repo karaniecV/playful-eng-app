@@ -12,7 +12,7 @@
     },
     {
       "id": 3,
-      "title": "People aroumd me",
+      "title": "People Around Me",
       "imgUrl": "./../../assets/units/pep.png"
     },
     {
@@ -32,7 +32,7 @@
     },
     {
       "id": 7,
-      "title": "In the lesson",
+      "title": "In The Lesson",
       "imgUrl": "./../../assets/units/les.png"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "id": 9,
-      "title": "I love animals",
+      "title": "I Love Animals",
       "imgUrl": "./../../assets/units/zoo.png"
     }
   ],

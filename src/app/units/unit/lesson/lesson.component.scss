@@ -2,7 +2,8 @@
   height: 450px;
 }
 h3 {
-  padding: 15px 0;
+  padding: 10px;
+  margin: 0;
 }
 
 .modal-custom {
@@ -12,12 +13,18 @@ h3 {
   background: aliceblue;
   width: 100%;
   height: 100vh;
+  display: flex;
+  flex-direction: column;
   &-header {
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
     & button {
-      color: black;
+      margin: 10px;
     }
   }
 }
+button {
+  margin: 10px 0;
+}
+
