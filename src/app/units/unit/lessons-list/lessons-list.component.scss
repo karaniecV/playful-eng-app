@@ -11,6 +11,9 @@
     }
     & > * {
       margin: 10px 20px;
+      @media (max-width: 768px) {
+        margin: 10px 10px;
+      }
     }
   }
 }

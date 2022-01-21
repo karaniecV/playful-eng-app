@@ -10,7 +10,6 @@ a {
   @media (max-width: 768px) {
     margin: 0;
   }
-
 }
 
 button {
@@ -115,5 +114,11 @@ body {
         background: none;
       }
     }
+  }
+}
+
+iframe {
+  .h5p-audio-minimal-button {
+    width: auto;
   }
 }

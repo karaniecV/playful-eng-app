@@ -2,8 +2,8 @@
   <div class="container">
     <div class="tasks-list">
       <div *ngFor="let task of tasks; let i = index">
-        <button class="button-yl">
-          <h3 (click)="onOpenMadal(task)">{{task.title}}</h3>
+        <button class="button-yl" (click)="onOpenMadal(task)">
+          <h3>{{task.title}}</h3>
         </button>
       </div>
     </div>

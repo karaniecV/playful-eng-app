@@ -681,6 +681,215 @@
           ]
         }
       ]
+    },
+    {
+      "4": [
+        {
+          "lesson1": [
+            {
+              "id": 1,
+              "title": "Learn the words.",
+              "src": "https://quizlet.com/629931252/match/embed?i=3eh7eb&x=1jj1"
+            },
+            {
+              "id": 2,
+              "title": "Write the names.",
+              "src": "https://learningapps.org/watch?app=23244541"
+            },
+            {
+              "id": 3,
+              "title": "Match the pictures and the words.",
+              "src": "https://learningapps.org/watch?app=23244831"
+            },
+            {
+              "id": 4,
+              "title": "Listen to the chant.",
+              "src": "https://udoba.org/h5p/embed/24260"
+            }
+          ]
+        },
+        {
+          "lesson2": [
+            {
+              "id": 1,
+              "title": "Learn the words.",
+              "src": "https://quizlet.com/658580585/match/embed?i=3eh7eb&x=1jj1"
+            },
+            {
+              "id": 2,
+              "title": "Write the names of the pets.",
+              "src": "https://learningapps.org/watch?app=23244694"
+            },
+            {
+              "id": 3,
+              "title": "Match the pictures and the words.",
+              "src": "https://learningapps.org/watch?app=23244813"
+            },
+            {
+              "id": 4,
+              "title": "Watch the video with the rule.",
+              "src": "https://www.youtube.com/embed/OyBonmrUXR8"
+            },
+            {
+              "id": 5,
+              "title": "Do the exercise.",
+              "src": "https://learningapps.org/watch?app=23263109"
+            }
+          ]
+        },
+        {
+          "lesson3": [
+            {
+              "id": 1,
+              "title": "Listen to and guess. Who is speaking?",
+              "src": "https://tinytap.com/activities/g4g97/player/embed/"
+            },
+            {
+              "id": 2,
+              "title": "Answer the questions.",
+              "src": "https://tinytap.com/activities/g4g9l/player/embed/"
+            },
+            {
+              "id": 3,
+              "title": "Speak about pets.",
+              "src": "https://udoba.org/h5p/embed/24309"
+            }
+          ]
+        },
+        {
+          "lesson4": [
+            {
+              "id": 1,
+              "title": "Match the pictures to the verbs.",
+              "src": "https://learningapps.org/watch?app=23280969"
+            },
+            {
+              "id": 2,
+              "title": "Divide the sentences into three groups.",
+              "src": "https://learningapps.org/watch?app=23281090"
+            },
+            {
+              "id": 3,
+              "title": "Find the pairs.",
+              "src": "https://learningapps.org/watch?app=23281373"
+            },
+            {
+              "id": 4,
+              "title": "Who says it?",
+              "src": "https://tinytap.com/activities/g4geg/player/embed/"
+            }
+          ]
+        },
+        {
+          "lesson5": [
+            {
+              "id": 1,
+              "title": "Match the pictures and the sentences.",
+              "src": "https://learningapps.org/watch?app=23342898"
+            },
+            {
+              "id": 2,
+              "title": "Make the sentences.",
+              "src": "https://udoba.org/h5p/embed/24705"
+            },
+            {
+              "id": 3,
+              "title": "Complete the sentences. Use: can or can't.",
+              "src": "https://learningapps.org/watch?app=23345078"
+            }
+          ]
+        },
+        {
+          "lesson6": [
+            {
+              "id": 1,
+              "title": "Listen, read and sing.",
+              "src": "https://udoba.org/h5p/embed/24829"
+            },
+            {
+              "id": 2,
+              "title": "Ask the questions.",
+              "src": "https://udoba.org/h5p/embed/24830"
+            },
+            {
+              "id": 3,
+              "title": "Listen and match.",
+              "src": "https://learningapps.org/watch?app=23363825"
+            },
+            {
+              "id": 4,
+              "title": "Complete the sentences.",
+              "src": "https://wordwall.net/embed/97c2101f074e46e9bf2f6c919adafbe2?themeId=1&templateId=36"
+            }
+          ]
+        },
+        {
+          "lesson7": [
+            {
+              "id": 1,
+              "title": "Answer the questions.",
+              "src": "https://tinytap.com/activities/g4gh4/player/embed/"
+            },
+            {
+              "id": 2,
+              "title": "Divide the sentences into four groups.",
+              "src": "https://learningapps.org/watch?app=23366493"
+            },
+            {
+              "id": 3,
+              "title": "Complete the text.",
+              "src": "https://wordwall.net/embed/d197b651da6e4334bdbb41cae136109d?themeId=1&templateId=36"
+            }
+          ]
+        },
+        {
+          "lesson8": [
+            {
+              "id": 1,
+              "title": "Match the words with the sounds.",
+              "src": "https://learningapps.org/watch?app=23366591"
+            },
+            {
+              "id": 2,
+              "title": "Read and do the tests.",
+              "src": "https://udoba.org/h5p/embed/24843"
+            }
+          ]
+        },
+        {
+          "lesson9": [
+            {
+              "id": 1,
+              "title": "Listen, read and guess.",
+              "src": "https://udoba.org/h5p/embed/24904A"
+            },
+            {
+              "id": 2,
+              "title": "Read and guess a pet.",
+              "src": "https://udoba.org/h5p/embed/24906"
+            }
+          ]
+        },
+        {
+          "lesson10": [
+            {
+              "id": 1,
+              "title": "Sing a song.",
+              "src": "https://vocaroo.com/embed/165EPJqbH0Xv?autoplay=0"
+            },
+            {
+              "id": 2,
+              "title": "Talk to Santa.",
+              "src": "https://wordwall.net/embed/19478bb8b6ba4a2eab518a92da85a7cc?themeId=42&templateId=70"
+            },
+            {
+              "id": 3,
+              "title": "Listen and guess.",
+              "src": "https://tinytap.com/activities/g4gj1/player/embed/"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
