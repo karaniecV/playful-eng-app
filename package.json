@@ -21,6 +21,7 @@
     "@angular/router": "~11.2.3",
     "@ng-bootstrap/ng-bootstrap": "^11.0.0-beta.2",
     "firebase": "^9.1.2",
+    "firebase-tools": "^10.2.1",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
     "zone.js": "~0.11.3"

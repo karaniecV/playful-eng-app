@@ -24,5 +24,10 @@
     <h3 (click)="onCloseMadal()">{{madalTask.title}}</h3>
     <button (click)="onCloseMadal()" class="button-black">X</button>
   </div>
-  <iframe [src]="madalTask.src | safe" width="100%" height="100%" ></iframe>
-</div>
+  <iframe *ngIf="!isArray" [src]="madalTask.src | safe" width="100%" height="100%"></iframe>
+  <div *ngIf="isArray">
+    <div *ngFor="let item of madalTask.src; let i = index">
+      <div>{{item.title}}</div>
+      <iframe [src]="item.src | safe" width="100%" height="100%"></iframe>
+    </div>
+  </div>
